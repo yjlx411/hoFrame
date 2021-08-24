@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/view_state_void"
+    android:background="@drawable/btn_white_r13"
+    android:layout_marginStart="5dp"
+    android:layout_marginBottom="12dp"
+    android:layout_marginEnd="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.makeramen.roundedimageview.RoundedImageView
+        android:scaleType="centerCrop"
+        android:id="@+id/iv_news_category"
+        app:riv_corner_radius_top_left="13dp"
+        app:riv_corner_radius_top_right="13dp"
+        android:src="@color/bg_gray_f5"
+        app:riv_corner_radius="13dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp" />
+
+    <TextView
+        android:id="@+id/tv_title_category"
+        android:text="标题"
+        android:textSize="14sp"
+        android:textColor="@color/text_3"
+        android:layout_below="@id/iv_news_category"
+        android:paddingStart="6dp"
+        android:maxLines="3"
+        android:minLines="3"
+        android:paddingTop="10dp"
+        android:paddingEnd="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_author_category"
+        android:layout_below="@id/tv_title_category"
+        android:paddingStart="6dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingEnd="6dp"
+        android:textSize="12sp"
+        android:maxLines="1"
+        android:minLines="1"
+        android:text="发布人"
+        android:textColor="@color/text_8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

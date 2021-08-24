@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:clickable="true"
+    android:focusable="true"
+    >
+
+    <data>
+        <variable
+            name="vs"
+            type="com.krad.origin.hoframe.view.viewset.NetStateVS" />
+    </data>
+
+    <FrameLayout
+        android:id="@+id/fl_state_net"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <ViewStub
+            android:id="@+id/vs_void"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ViewStub
+            android:id="@+id/vs_fail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ViewStub
+            android:id="@+id/vs_load"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </FrameLayout>
+</layout>

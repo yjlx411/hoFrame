@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/drawable/bg_select_oil_price.xml" value="0.162890625" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/drawable/btn_theme_small.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/drawable/btn_white_r13.xml" value="0.1637065637065637" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/drawable/ic_arrow_back.xml" value="0.25763888888888886" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.165625" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/drawable/ic_news_normal.xml" value="0.1637065637065637" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/drawable/ic_news_select.xml" value="0.1637065637065637" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/drawable/ic_state_fail.xml" value="0.165625" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/drawable/ic_state_load.xml" value="0.165625" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/drawable/ic_state_void.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/drawable/selector_oil_price.xml" value="0.162890625" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/drawable/tab_red_tip.xml" value="0.1546875" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/activity_ho.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/content_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/fragment_first.xml" value="0.153515625" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/fragment_ho.xml" value="0.153515625" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/fragment_second.xml" value="0.153515625" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/item_news_category.xml" value="0.33" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/layout_net_state.xml" value="0.2" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/layout_state_fail.xml" value="0.274609375" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/layout_state_load.xml" value="0.16" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/layout_state_void.xml" value="0.274609375" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/layout_titlebar.xml" value="0.16" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/net_state_layout.xml" value="0.274609375" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/pager_home.xml" value="0.148046875" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/pager_life.xml" value="0.274609375" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/pager_news.xml" value="0.13446824789594491" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/pager_news_category.xml" value="0.15078125" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/pager_oil_price.xml" value="0.18" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/pager_video_recommend.xml" value="0.274609375" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/pager_web.xml" value="0.274609375" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/layout/view_dialog_loading.xml" value="0.15078125" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/menu/menu_main.xml" value="0.153515625" />
+        <entry key="..\:/Users/Okami/AndroidStudioProjects/Origin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18194444444444444" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
