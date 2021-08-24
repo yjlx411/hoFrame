@@ -12,6 +12,7 @@ import com.krad.origin.hoframe.pager.Pager
 class NewsPager : Pager<PagerNewsBinding>() {
 
     val categories = arrayOf("推荐", "国内", "国际", "娱乐", "体育", "军事", "科技", "财经", "健康")
+    val types = arrayOf("top", "guonei", "guoji", "yule", "tiyu", "junshi", "keji", "caijing", "jiankang")
 
     override fun getLayoutID(): Int {
         return R.layout.pager_news
@@ -22,7 +23,7 @@ class NewsPager : Pager<PagerNewsBinding>() {
 
     override fun initView() {
         val fragments: ArrayList<Fragment> = ArrayList()
-        categories.forEach {
+        types.forEach {
             val toFragment = PagerIndex.News_Category.prepare().add("type", it).toFragment()
             fragments.add(toFragment)
         }

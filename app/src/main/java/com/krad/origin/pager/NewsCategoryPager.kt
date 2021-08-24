@@ -169,6 +169,9 @@ class NewsCategoryPager : Pager<PagerNewsCategoryBinding>() {
                         .setText(R.id.tv_author_category, item.author_name ?: "未知作者")
                     val ivNews: ImageView = holder.getView(R.id.iv_news_category)
                     Glide.with(ivNews).load(item.thumbnail_pic_s)
+
+
+
                         .into(holder.getView(R.id.iv_news_category))
                     holder.itemView.setOnClickListener {
                         item.url?.let {
