@@ -174,7 +174,7 @@ class NewsCategoryPager : Pager<PagerNewsCategoryBinding>() {
                         item.url?.let {
                             if (it.startsWith("http")) {
                                 PagerIndex.Web.prepare()
-                                    .add("mode","1")
+                                    .add("mode",1)
                                     .add("url", item.url?:"")
                                     .start(getContext())
                             }
